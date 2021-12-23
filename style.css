@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    margin: 2% 20% 2% 20%;
+    color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.img-gift{
+    text-align: center;
+    font-size: 8rem;
+    margin: 1rem;
+}
+
+.stay-middle{
+    text-align: center;
+}
+
+.list-name{
+    list-style: none;
+    padding: 3%;
+}
